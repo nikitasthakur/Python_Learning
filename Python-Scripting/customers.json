@@ -1,0 +1,44 @@
+[
+  {
+    "customer_id": 1,
+    "customer_name": "Claudia Sand",
+    "customer_email": "claudia.sand@hotmail.com",
+    "prov_state": "NY",
+    "country": "US"
+  },
+  {
+    "customer_id": 2,
+    "customer_name": "Max Bigot",
+    "customer_email": "maxime_bigot@outlook.com",
+    "prov_state": "NH",
+    "country": "US"
+  },
+  {
+    "customer_id": 5,
+    "customer_name": "Catherine Reilly",
+    "customer_email": "catherine_reilly@hotmail.com",
+    "prov_state": "MA",
+    "country": "US"
+  },
+  {
+    "customer_id": 6,
+    "customer_name": "Joe Khoury",
+    "customer_email": "jkhoury@jakhoury.com",
+    "prov_state": "MA",
+    "country": "US"
+  },
+  {
+    "customer_id": 3,
+    "customer_name": "Rick Tailleur",
+    "customer_email": "richard_tailleur@outlook.com",
+    "prov_state": "ON",
+    "country": "CA"
+  },
+  {
+    "customer_id": 4,
+    "customer_name": "Noémie Miller",
+    "customer_email": "noemie_miller@outlook.com",
+    "prov_state": "BG",
+    "country": "FR"
+  }
+]

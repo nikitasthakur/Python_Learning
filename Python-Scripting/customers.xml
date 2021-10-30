@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<customers>
+  <customer name = "Claudia Sand">
+    <customer_id>1</customer_id>
+    <customer_email>claudia.sand@hotmail.com</customer_email>
+    <prov_state>NY</prov_state>
+    <country>US</country>
+  </customer>
+  <customer name = "Max Bigot">
+    <customer_id>2</customer_id>
+    <customer_email>maxime_bigot@outlook.com</customer_email>
+    <prov_state>NH</prov_state>
+    <country>US</country>
+  </customer>
+  <customer name = "Catherine Reilly">
+    <customer_id>5</customer_id>
+    <customer_email>catherine_reilly@hotmail.com</customer_email>
+    <prov_state>MA</prov_state>
+    <country>US</country>
+  </customer>
+  <customer name = "Joe Khoury">
+    <customer_id>6</customer_id>
+    <customer_email>jkhoury@jakhoury.com</customer_email>
+    <prov_state>MA</prov_state>
+    <country>US</country>
+  </customer>
+  <customer name = "Rick Tailleur">
+    <customer_id>3</customer_id>
+    <customer_email>richard_tailleur@outlook.com</customer_email>
+    <prov_state>ON</prov_state>
+    <country>CA</country>
+  </customer>
+  <customer name = "Noémie Miller">
+    <customer_id>4</customer_id>
+    <customer_email>noemie_miller@outlook.com</customer_email>
+    <prov_state>BG</prov_state>
+    <country>FR</country>
+  </customer>
+</customers>
